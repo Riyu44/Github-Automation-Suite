@@ -42,3 +42,9 @@ You are good to go.
 ## Github-Leaderboard- 
 Here's a list of all the previous data tables, hosted over cloud storage
 - [Tue Jun 27 10:03:14 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/rJolRAZEFEymHsugSTPL/scores/)
+- [Thu Jun 29 08:34:37 UTC 2023](https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/G9XqthXHN0MA03fIIMFD/scores/)
+<!--START_TABLE-->
+| Login        | Contributions | Solved Issues |
+| ------------ | ------------- | ------------- |
+| Riyu44 | [6](https://github.com/Sopra-Banking-Software-Interns/Github-Leaderboard/commits?author=Riyu44) | [null](https://getpantry.cloud/apiv1/pantry/860a0c02-c763-41ca-9d31-ec787fc3202a/basket/Riyu44) |
+<!--END_TABLE-->
