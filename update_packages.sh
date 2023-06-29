@@ -1,7 +1,7 @@
 # GitHub API credentials and repository information
-GITHUB_USERNAME="CodePrakhar"
+GITHUB_USERNAME="Riyu44"
 GITHUB_TOKEN=$token
-REPO_LINK="https://github.com/Sopra-Banking-Software-Interns/unified-automation-suite"
+REPO_LINK="https://github.com/Riyu44/Github-Automation-Suite"
 
 # Path to the text file
 TEXT_FILE=updates.txt
